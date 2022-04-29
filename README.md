@@ -1,11 +1,11 @@
-<h1 align="center">Hi :wave:, I'm Anurag verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi :wave:, I'm Abhinandan Kumar</h1>
+<h3 align="center">I've always been passionate about working in Back-end</h3>
        <img align="right" width="400"  src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheelkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sheelkumar" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- :seedling: I’m currently learning **MERN stack**
+- :seedling: I’m currently learning **Java Back-end Development**
 <br>
-- :mailbox: How to reach me **anurag.premaverma@gmail.com** <br>
+- :mailbox: How to reach me **shaanabhinandan@gmail.com** <br>
 - :Linkedin: How to reach me **https://www.linkedin.com/in/abhinandan-shaan/**
 <p align="left">
 </p>
